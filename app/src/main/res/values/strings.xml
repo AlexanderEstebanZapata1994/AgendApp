@@ -1,9 +1,7 @@
 <resources>
     <string name="app_name">AgendApp</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Alexander Esteban Zapata</string>
+    <string name="nav_header_subtitle">alexanderesteban7@gmail.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
@@ -19,4 +17,8 @@
     <string name="fragment_home_txtDatos">Datos del contacto</string>
     <string name="fragment_home_btnGuardar">Guardar</string>
     <string name="fragment_home_btnBuscar">Buscar</string>
+
+    <string name="fragment_saveSDCard_txtFileName">Nombre del archivo</string>
+    <string name="fragment_saveSDCard_btnGuardar">Guardar</string>
+    <string name="fragment_saveSDCard_btnConsultar">Consultar</string>
 </resources>
